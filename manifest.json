@@ -1,0 +1,14 @@
+{
+    "description": "HandyTicket Deutschland Webapp for Ubuntu Touch",
+    "framework": "ubuntu-sdk-15.04",
+    "hooks": {
+        "google-plus": {
+        "apparmor": "app.json",
+        "desktop": "app.desktop"
+    }
+},
+    "maintainer": "Roman Buchheit <roman.buchheit+handyticket@gmail.com>",
+	"name": "handyticketdeutschland.rom4nb",
+    "title": "Handyticket Deutschland",
+    "version": "0.4"
+}
