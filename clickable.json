@@ -1,0 +1,9 @@
+{
+	"builder": "pure",
+	"ignore": [
+		".clickable",
+		".git",
+		".gitignore",
+		".idea"
+	]
+}

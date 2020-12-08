@@ -2,6 +2,6 @@
 Name=HandyTicket Deutschland
 Type=Application
 Icon=HandyTicketDeutschland.png
-Exec=qmlscene %u qml/Main.qml
+Exec=qmlscene --scaling %u qml/Main.qml
 Terminal=false
 X-Ubuntu-Touch=true

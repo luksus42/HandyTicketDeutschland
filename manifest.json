@@ -10,5 +10,6 @@
     "maintainer": "Roman Buchheit <roman.buchheit+handyticket@gmail.com>",
 	"name": "handyticketdeutschland.rom4nb",
     "title": "Handyticket Deutschland",
-    "version": "0.4"
+    "version": "0.4",
+    "architecture": "all"
 }
